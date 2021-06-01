@@ -1,2 +1,2 @@
-# liyang-love.github.io
+# liyang.love.github.io
 https://www.liyang.love
