@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](images/liyang.png)
 
 # 以沫浅夏 <small>2020.09</small>
 
@@ -11,4 +11,4 @@
 - 时光、心迹
 
 [GitHub](https://github.com/liyang-love/)
-[Get Started](#docsify)
+[Get Started](#首页)
