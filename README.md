@@ -18,9 +18,12 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 - [博客](#)
 	- [net](net.md#net)
+	  - [winform FormBordStyle=none  及 wpf  FormBordStyle=none  的鼠标点击移动问题](/doc/blog/net/winform的鼠标点击移动问题.md#winform的鼠标点击移动问题)
+  
 	- [go](go.md#go)
+	
 	- [iot](iot.md#iot)
-    - [杂记](zaji.md#杂记)
+	  - [杂记](zaji.md#杂记)
 	
 - [时光](#)
 	- [相册](photo.md#相册)
@@ -29,7 +32,7 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 	
 - [关于](/doc/about/about.md#关于我)
 	
-
+  
   
     
 
