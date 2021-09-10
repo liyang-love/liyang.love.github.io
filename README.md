@@ -19,11 +19,19 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 - [博客](#)
 	- [net](net.md#net)
 	  - [winform FormBordStyle=none  及 wpf  FormBordStyle=none  的鼠标点击移动问题](doc/blog/net/winform的鼠标点击移动问题.md#winform的鼠标点击移动问题)
-    - [winform验证用户正确后打开新窗口时关闭登陆窗口](doc/blog/net/winform验证用户正确后打开新窗口时关闭登陆窗口.md)
+	  - [winform验证用户正确后打开新窗口时关闭登陆窗口](doc/blog/net/winform验证用户正确后打开新窗口时关闭登陆窗口.md)
 	  - [通过数据库绑定的dropdownlist，如何让其第一条默认显示请选择](doc/blog/net/通过数据库绑定的dropdownlist如何让其第一条默认显示请选择.md)
+	  - [删除数据库的数据后让id从1开始算](doc/blog/net/删除数据库的数据后让id从1开始算.md)
+	  - [图片转换成流](doc/blog/net/图片转换成流.md)
+    - [HttpWebRequest](doc/blog/net/HttpWebRequest.md)
+	  - [WP调用api](doc/blog/net/WP调用api.md)
+	  - [Ngnix 80端口被占用的解决办法（1.7.1版本）](doc/blog/net/Ngnix80端口被占用的解决办法.md)
+	  - [winform MD5加密](doc/blog/net/winform-MD5加密.md)
+	  - [c# 实体序列化为json与json序列化为实体](doc/blog/net/c实体序列化为json与json序列化为实体.md)
+	  - [Entity Framework](doc/blog/net/EntityFramework.md)
 	  
 	- [go](go.md#go)
-  
+	
 	- [iot](iot.md#iot)
 	     - [杂记](zaji.md#杂记)
 	
