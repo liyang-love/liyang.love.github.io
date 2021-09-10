@@ -29,6 +29,10 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 	  - [winform MD5加密](doc/blog/net/winform-MD5加密.md)
 	  - [c# 实体序列化为json与json序列化为实体](doc/blog/net/c实体序列化为json与json序列化为实体.md)
 	  - [Entity Framework](doc/blog/net/EntityFramework.md)
+	  - [Oracle 相关操作](doc/blog/net/Oracle相关操作.md)
+	  - [Orcale 与EF的在数据插入时的问题](doc/blog/net/Orcale与EF的在数据插入时的问题.md)
+	  - [Oracle 使用EF5怎么删除多行符合条件的数据](doc/blog/net/Oracle使用EF5怎么删除多行符合条件的数据.md)
+	  - [winform子窗体刷新父窗体](doc/blog/net/winform子窗体刷新父窗体.md)
 	  
 	- [go](go.md#go)
 	
@@ -36,6 +40,7 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 	     - [杂记](zaji.md#杂记)
 	
 - [时光](#)
+	
 	- [相册](photo.md#相册)
 	- [碎语](suiyu.md#碎语)
 	- [痕迹](hengji.md#痕迹)
