@@ -18,12 +18,14 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 - [博客](#)
 	- [net](net.md#net)
-	  - [winform FormBordStyle=none  及 wpf  FormBordStyle=none  的鼠标点击移动问题](/doc/blog/net/winform的鼠标点击移动问题.md#winform的鼠标点击移动问题)
-  
+	  - [winform FormBordStyle=none  及 wpf  FormBordStyle=none  的鼠标点击移动问题](doc/blog/net/winform的鼠标点击移动问题.md#winform的鼠标点击移动问题)
+    - [winform验证用户正确后打开新窗口时关闭登陆窗口](doc/blog/net/winform验证用户正确后打开新窗口时关闭登陆窗口.md)
+	  - [通过数据库绑定的dropdownlist，如何让其第一条默认显示请选择](doc/blog/net/通过数据库绑定的dropdownlist如何让其第一条默认显示请选择.md)
+	  
 	- [go](go.md#go)
-	
+  
 	- [iot](iot.md#iot)
-       - [杂记](zaji.md#杂记)
+	     - [杂记](zaji.md#杂记)
 	
 - [时光](#)
 	- [相册](photo.md#相册)

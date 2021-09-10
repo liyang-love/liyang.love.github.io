@@ -5,9 +5,9 @@
 winform：
 
 ```c#
-private Point mPoint;
+        private Point mPoint;
 
-/// <summary>
+        /// <summary>
         /// 鼠标按下
         /// </summary>
         /// <param name="sender"></param>
