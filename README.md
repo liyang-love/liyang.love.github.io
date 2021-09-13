@@ -1,6 +1,6 @@
 ## 首页
 
-by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e-mail:`<a href="mailto:liyang@liyang.love">` 📧`</a>`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后更新时间:2013年09月09日 16:54
+by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e-mail:<a href="mailto:liyang@liyang.love"> 📧</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后更新时间:2013年09月09日 16:54
 
 `发现任何注释说明问题或格式问题、错别字等，欢迎提` [【PR】](https://github.com/liyang-love/liyang.love.github.io/issues) `帮忙完善。`
 
