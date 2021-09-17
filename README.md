@@ -41,10 +41,12 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
     - [winform子窗体刷新父窗体](doc/blog/net/winform子窗体刷新父窗体.md)
     - [winform dataGridView获取鼠标所选内容](doc/blog/net/winform-dataGridView获取鼠标所选内容.md)
     - [SQL创建数据库、增删查改](doc/blog/net/SQL创建数据库增删查改.md)
+    - [获取被调用方法的类名、命名空间、方法名](doc/blog/net/获取被调用方法的类名命名空间方法名.md)
+    - [MongoDB学习（一）](doc/blog/net/MongoDB学习一.md)
+    - [Xml序列化与反序列化](doc/blog/net/Xml序列化与反序列化.md)
   - [go](go.md#go)
   - [iot](iot.md#iot)
-
-    - [杂记](zaji.md#杂记)
+  - [杂记](zaji.md#杂记)
 - [时光](#)
 
   - [相册](photo.md#相册)
