@@ -4,7 +4,7 @@
 
   * [首页](#首页)
 * 博客
-  * [net](net.md)
+  * [net](doc/net.md)
   * [go](go.md)
   * [iot](iot.md)
   * [杂记](zaji.md)
