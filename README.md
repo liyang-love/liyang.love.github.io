@@ -44,6 +44,8 @@ by author [liyang](https://blog.liyang.love) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
     - [获取被调用方法的类名、命名空间、方法名](doc/blog/net/获取被调用方法的类名命名空间方法名.md)
     - [MongoDB学习（一）](doc/blog/net/MongoDB学习一.md)
     - [Xml序列化与反序列化](doc/blog/net/Xml序列化与反序列化.md)
+    - [Linq删除所有符合条件的（批量删除）](doc/blog/net/Linq删除所有符合条件的批量删除.md)
+    - [sql Server 删除所有数据库里表的的数据](doc/blog/net/sqlServer删除所有数据库里表的的数据.md)
   - [go](go.md#go)
   - [iot](iot.md#iot)
   - [杂记](zaji.md#杂记)
